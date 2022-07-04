@@ -20,5 +20,5 @@ Obtive a idéia de:
  - após, uma mensagem dizendo o resultado:
     - se o valor solicitado foi igual a soma dos dados ou,
     - se o valor dos dados foi menor que o valor solicitado ou,
-    - se o valor dos dados foi maior que o valor solicitado e se foi maior, pergunta se o resultado ajudario o jogador ou atrapalharia.
+    - se o valor dos dados foi maior que o valor solicitado e se foi maior, pergunta se o resultado ajudaria o jogador ou atrapalharia.
     
